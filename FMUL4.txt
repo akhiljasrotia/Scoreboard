@@ -1,0 +1,2 @@
+VCD info: dumpfile FloatingPointMult.vcd opened for output.
+Time =  0, a = 1110011111110011, b = 0000101101111110, Multiplication = 1011001101110001
